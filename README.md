@@ -32,6 +32,15 @@ methodes diviser()
 tester les deux methodes diviser. Laquelle est meilleure
 dans ce cas?
 
+- `exo_diapo_53.java` : 
+    Ce code Java illustre le concept d'heritage en programmation orientee objet.
+Il met en place une classe VoitureElectrique qui herite d'une classe Voiture afin de reutiliser ses caracteristiques de base et d'y ajouter des elements specifiques aux voitures electriques.
+L'objectif est de creer une voiture electrique et d'afficher ses informations.
+
+- `exo_diapo_56.java` : 
+  Ce code montre comment redefinir une methode pour adapter le comportement d'affichage selon le type de vehicule, tout en reutilisant les informations de base de la classe parente.
+
+
 ## Instructions
 1. Cloner le depot
 2. Ouvrir les fichiers avec votre editeur
